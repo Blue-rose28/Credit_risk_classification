@@ -10,16 +10,16 @@ Stages of the machine learning process: The analysis involved data preprocessing
 * Jupiter notebook
   
 ## Results
-Logistic Regression Model:
+Logistic Regression Model result for healthy loans:
+Precision:    1.00 
+Recall:       1.00  
+f1-score:     1.00 
+Logistic Regression Model result for high-risk loans:
+Precision:    0.87
+Recall:       0.89
+f1-score:     0.88 
 
-              Precision recall  f1-score   support
-
-           0       1.00      1.00      1.00     18759
-           1       0.87      0.89      0.88       625
-
-     accuracy                           0.99     19384
-    macro avg       0.94      0.94      0.94     19384
-    weighted avg       0.99      0.99      0.99     19384
+Accuracy:     0.99 
 
 ## Summary
 The logistic regression model performed exceptionally well in predicting healthy loans, achieving perfect precision and recall scores. The model exhibited high precision and recall for high-risk loans, albeit slightly lower than healthy loans.
