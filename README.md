@@ -11,14 +11,15 @@ Stages of the machine learning process: The analysis involved data preprocessing
   
 ## Results
 Logistic Regression Model result for healthy loans:
-Precision:    1.00 
-Recall:       1.00  
-f1-score:     1.00 
-Logistic Regression Model result for high-risk loans:
-Precision:    0.87
-Recall:       0.89
-f1-score:     0.88 
+- Precision:    1.00 
+- Recall:       1.00  
+- f1-score:     1.00 
 
+Logistic Regression Model result for high-risk loans:
+- Precision:    0.87
+- Recall:       0.89
+- f1-score:     0.88
+- 
 Accuracy:     0.99 
 
 ## Summary
