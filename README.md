@@ -5,9 +5,9 @@ The variable of prediction is Loan status. Value counts of the given data showed
 Stages of the machine learning process: The analysis involved data preprocessing, splitting the data into training and testing sets, and building a logistic regression model using LogisticRegression from scikit-learn.
 
 ## Technology
-* Machinelearning logistic regression model
+* Machine learning logistic regression model
 * scikit-learn
-* jupyter notebook
+* Jupiter notebook
   
 ## Results
 Logistic Regression Model:
@@ -17,9 +17,9 @@ Logistic Regression Model:
            0       1.00      1.00      1.00     18759
            1       0.87      0.89      0.88       625
 
-    accuracy                           0.99     19384
-   macro avg       0.94      0.94      0.94     19384
-weighted avg       0.99      0.99      0.99     19384
+     accuracy                           0.99     19384
+    macro avg       0.94      0.94      0.94     19384
+ weighted avg       0.99      0.99      0.99     19384
 
 ## Summary
 The logistic regression model performed exceptionally well in predicting healthy loans, achieving perfect precision and recall scores. The model exhibited high precision and recall for high-risk loans, albeit slightly lower than healthy loans.
