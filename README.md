@@ -19,7 +19,7 @@ Logistic Regression Model:
 
      accuracy                           0.99     19384
     macro avg       0.94      0.94      0.94     19384
- weighted avg       0.99      0.99      0.99     19384
+    weighted avg       0.99      0.99      0.99     19384
 
 ## Summary
 The logistic regression model performed exceptionally well in predicting healthy loans, achieving perfect precision and recall scores. The model exhibited high precision and recall for high-risk loans, albeit slightly lower than healthy loans.
