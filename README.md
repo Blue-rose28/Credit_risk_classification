@@ -19,7 +19,7 @@ Logistic Regression Model result for high-risk loans:
 - Precision:    0.87
 - Recall:       0.89
 - f1-score:     0.88
-- 
+  
 Accuracy:     0.99 
 
 ## Summary
